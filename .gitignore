@@ -1,9 +1,11 @@
+.git
 .idea
 .vscode
 
 
 *.log
-
+certs/*.pem
+certs/*.unsecure
 ### bin
 bin/
 logs/
