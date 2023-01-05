@@ -1,0 +1,13 @@
+{
+    "http": 8080,
+    "https": 8443,
+    "https_key": "certs/https_rsa_2048.pem.unsecure",
+    "https_crt": "certs/https.crt",
+    "redis_port": 6379,
+    "redis_address": "127.0.0.1",
+    "redis_user": "",
+    "redis_pass": "game123...",
+    "redis_tls_key": "certs/redis/redis.key",
+    "redis_tls_crt": "certs/redis/redis.crt",
+    "redis_tls_ca": "certs/redis/ca.crt"
+}

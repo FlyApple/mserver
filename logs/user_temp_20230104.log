@@ -1,0 +1,6 @@
+21:37:10 [INFO] [AUTH] (User) Authentication failed, Result: server error, ID:1001, SID:0
+21:39:56 [INFO] [AUTH] (User) Authentication failed, Result: server error, ID:1002, SID:1
+21:41:25 [INFO] [AUTH] (User) Authentication failed, Result: server error, ID:1003, SID:2
+21:44:49 [INFO] [AUTH] (User) Authentication failed, Result: failed, ID:1004, SID:0
+22:00:50 [INFO] [AUTH] (User) Authentication failed, Result: failed, ID:1007, SID:3
+22:01:33 [INFO] [AUTH] (User) Authentication failed, Result: server error, ID:1001, SID:0

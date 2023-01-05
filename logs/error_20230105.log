@@ -1,0 +1,4 @@
+15:52:45 [ERROR] [HTTP] Error: listen tcp :8080: bind: address already in use
+15:52:45 [ERROR] [HTTPS] Error: listen tcp :8443: bind: address already in use
+15:53:01 [ERROR] [HTTP] Error: listen tcp :8080: bind: address already in use
+15:53:01 [ERROR] [HTTPS] Error: listen tcp :8443: bind: address already in use

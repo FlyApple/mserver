@@ -1,0 +1,12 @@
+21:31:21 [INFO] [AUTH] (User) Authentication failed, Result: server error, ID:1001, SID0
+22:18:30 [INFO] [ERROR] (User) Session user null, ID:1001(USER), SID0
+22:19:50 [INFO] [ERROR] (User) Session user null, ID:1002(USER), SID1
+22:22:20 [INFO] [ERROR] (User) Session user null, ID:1003(USER), SID2
+22:25:31 [INFO] [ERROR] (User) Session user null, ID:1004(USER), SID3
+22:29:28 [INFO] [ERROR] (User) Session user null, ID:1005(USER), SID4
+22:34:37 [INFO] [ERROR] (User) Session user null, ID:1006(USER), SID5
+22:43:01 [INFO] [ERROR] (User) Session user NULL, ID:1001(USER), SID:0
+22:48:25 [INFO] [ERROR] (User) Session user NULL, ID:1002(USER), SID:1
+23:09:04 [INFO] [ERROR] (User) Session user NULL, ID:1001 (USER), SID:0
+23:10:14 [INFO] [ERROR] (User) Session user NULL, ID:1002 (USER), SID:1
+23:12:15 [INFO] [ERROR] (User) Session user NULL, ID:1003 (USER), SID:2

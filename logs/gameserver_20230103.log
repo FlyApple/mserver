@@ -1,0 +1,115 @@
+15:20:59 [INFO] (Info) Create GameServer (ID:10436734) [OK]
+15:20:59 [INFO] (Info) Create GameServer (ID:10443966) [OK]
+15:24:33 [INFO] (Info) Create GameServer (ID:10396211) [OK]
+15:24:33 [INFO] (Info) Create GameServer (ID:10439653) [OK]
+15:37:38 [INFO] (Info) Create GameServer (ID:10388962) [OK]
+15:37:38 [INFO] (Info) Create GameServer (ID:10419406) [OK]
+15:46:22 [INFO] (Info) Create GameServer (ID:10409208) [OK]
+15:46:22 [INFO] (Info) Create GameServer (ID:10377421) [OK]
+15:46:54 [INFO] (Info) Create GameServer (ID:10459764) [OK]
+15:46:54 [INFO] (Info) Create GameServer (ID:10372380) [OK]
+15:54:32 [INFO] (Info) Create GameServer (ID:10419188) [OK]
+15:54:32 [INFO] (Info) Create GameServer (ID:10394986) [OK]
+15:55:50 [INFO] (Info) Create GameServer (ID:10436847) [OK]
+15:55:50 [INFO] (Info) Create GameServer (ID:10418209) [OK]
+16:04:10 [INFO] (Info) Create GameServer (ID:10375607) [OK]
+16:04:10 [INFO] (Info) Create GameServer (ID:10395707) [OK]
+16:06:43 [INFO] (Info) Create GameServer (ID:10377125) [OK]
+16:06:43 [INFO] (Info) Create GameServer (ID:10383934) [OK]
+16:14:01 [INFO] (Info) Create GameServer (ID:10382099) [OK]
+16:14:01 [INFO] (Info) Create GameServer (ID:10438445) [OK]
+16:26:28 [INFO] (Info) Create GameServer (ID:10446216), Max :1000 [OK]
+16:26:28 [INFO] (Info) Create GameServer (ID:10372313), Max :1000 [OK]
+17:46:26 [INFO] (Info) Create GameServer (ID:10453426), Max Sessions:1000 [OK]
+17:46:26 [INFO] (Info) Create GameServer (ID:10412074), Max Sessions:1000 [OK]
+17:52:25 [INFO] (Info) Create GameServer (ID:10370613), Max Sessions:1000 [OK]
+17:52:25 [INFO] (Info) Create GameServer (ID:10409333), Max Sessions:1000 [OK]
+18:50:00 [INFO] (Info) Create GameServer (ID:10444867), Max Sessions:1000 [OK]
+18:50:00 [INFO] (Info) Create GameServer (ID:10457495), Max Sessions:1000 [OK]
+18:52:17 [INFO] (Info) Create GameServer (ID:10453835), Max Sessions:1000 [OK]
+18:52:17 [INFO] (Info) Create GameServer (ID:10394748), Max Sessions:1000 [OK]
+18:53:58 [INFO] (Info) Create GameServer (ID:10380377), Max Sessions:1000 [OK]
+18:53:58 [INFO] (Info) Create GameServer (ID:10451964), Max Sessions:1000 [OK]
+18:55:12 [INFO] (Info) Create GameServer (ID:10451953), Max Sessions:1000 [OK]
+18:55:12 [INFO] (Info) Create GameServer (ID:10416338), Max Sessions:1000 [OK]
+19:00:06 [INFO] (Info) Create GameServer (ID:10418174), Max Sessions:1000 [OK]
+19:00:06 [INFO] (Info) Create GameServer (ID:10430827), Max Sessions:1000 [OK]
+19:02:11 [INFO] (Accept) Session accept ID: 0, Address127.0.0.1:55432
+19:02:36 [INFO] (Info) Create GameServer (ID:10452354), Max Sessions:1000 [OK]
+19:02:36 [INFO] (Info) Create GameServer (ID:10415540), Max Sessions:1000 [OK]
+19:03:08 [INFO] (Accept) Session accept ID: 0, Address 127.0.0.1:55448
+19:03:28 [INFO] (Accept) Session closed ID: 0, Address127.0.0.1:55448
+22:17:07 [INFO] (Info) Create GameServer (ID:10373156), Max Sessions:1000 [OK]
+22:17:07 [INFO] (Info) Create GameServer (ID:10426525), Max Sessions:1000 [OK]
+22:18:06 [INFO] (Info) Create GameServer (ID:10407315), Max Sessions:1000 [OK]
+22:18:06 [INFO] (Info) Create GameServer (ID:10371296), Max Sessions:1000 [OK]
+22:18:13 [INFO] (Accept) Session accept ID: 0, Address: 127.0.0.1:49716
+22:18:54 [INFO] (Close) Session closed ID: 0, Address: 127.0.0.1:49716
+22:25:52 [INFO] (Accept) Session accept ID: 1, Address: 127.0.0.1:50117
+22:26:09 [INFO] (Close) Session closed ID: 1, Address: 127.0.0.1:50117
+22:26:21 [INFO] (Accept) Session accept ID: 2, Address: 127.0.0.1:50151
+22:26:47 [INFO] (Close) Session closed ID: 2, Address: 127.0.0.1:50151
+22:27:14 [INFO] (Accept) Session accept ID: 3, Address: 127.0.0.1:50213
+22:27:57 [INFO] (Close) Session closed ID: 3, Address: 127.0.0.1:50213
+22:28:26 [INFO] (Accept) Session accept ID: 4, Address: 127.0.0.1:50291
+22:30:43 [INFO] (Close) Session closed ID: 4, Address: 127.0.0.1:50291
+22:32:07 [INFO] (Accept) Session accept ID: 5, Address: 127.0.0.1:50577
+22:33:21 [INFO] (Close) Session closed ID: 5, Address: 127.0.0.1:50577
+22:35:24 [INFO] (Info) Create GameServer (ID:10374386), Max Sessions:1000 [OK]
+22:35:24 [INFO] (Info) Create GameServer (ID:10455308), Max Sessions:1000 [OK]
+22:35:47 [INFO] (Info) Create GameServer (ID:10412267), Max Sessions:1000 [OK]
+22:35:47 [INFO] (Info) Create GameServer (ID:10439824), Max Sessions:1000 [OK]
+22:35:55 [INFO] (Accept) Session accept ID: 0, Address: 127.0.0.1:50794
+22:36:41 [INFO] (Close) Session closed ID: 0, Address: 127.0.0.1:50794
+22:40:21 [INFO] (Accept) Session accept ID: 1, Address: 127.0.0.1:51048
+22:40:45 [INFO] (Close) Session closed ID: 1, Address: 127.0.0.1:51048
+22:40:50 [INFO] (Accept) Session accept ID: 2, Address: 127.0.0.1:51082
+22:41:22 [INFO] (Close) Session closed ID: 2, Address: 127.0.0.1:51082
+22:43:10 [INFO] (Accept) Session accept ID: 3, Address: 127.0.0.1:51280
+22:43:33 [INFO] (Close) Session closed ID: 3, Address: 127.0.0.1:51280
+22:54:35 [INFO] (Accept) Session accept ID: 4, Address: 127.0.0.1:51982
+22:54:58 [INFO] (Close) Session closed ID: 4, Address: 127.0.0.1:51982
+22:55:43 [INFO] (Accept) Session accept ID: 5, Address: 127.0.0.1:52056
+22:56:12 [INFO] (Close) Session closed ID: 5, Address: 127.0.0.1:52056
+23:04:27 [INFO] (Accept) Session accept ID: 6, Address: 127.0.0.1:52596
+23:05:13 [INFO] (Close) Session closed ID: 6, Address: 127.0.0.1:52596
+23:06:07 [INFO] (Accept) Session accept ID: 7, Address: 127.0.0.1:52703
+23:06:20 [INFO] (Close) Session closed ID: 7, Address: 127.0.0.1:52703
+23:07:07 [INFO] (Info) Create GameServer (ID:10386739), Max Sessions:1000 [OK]
+23:07:07 [INFO] (Info) Create GameServer (ID:10386671), Max Sessions:1000 [OK]
+23:07:26 [INFO] (Accept) Session accept ID: 0, Address: 127.0.0.1:52745
+23:07:41 [INFO] (Close) Session closed ID: 0, Address: 127.0.0.1:52745
+23:08:01 [INFO] (Info) Create GameServer (ID:10457702), Max Sessions:1000 [OK]
+23:08:01 [INFO] (Info) Create GameServer (ID:10402401), Max Sessions:1000 [OK]
+23:08:31 [INFO] (Accept) Session accept ID: 0, Address: 127.0.0.1:52761
+23:08:45 [INFO] (Close) Session closed ID: 0, Address: 127.0.0.1:52761
+23:16:27 [INFO] (Info) Create GameServer (ID:10394464), Max Sessions:1000 [OK]
+23:16:27 [INFO] (Info) Create GameServer (ID:10459402), Max Sessions:1000 [OK]
+23:16:41 [INFO] (Accept) Session accept ID: 0, Address: 127.0.0.1:53044
+23:16:42 [INFO] (Close) Session closed ID: 0, Address: 127.0.0.1:53044
+23:17:41 [INFO] (Info) Create GameServer (ID:10384335), Max Sessions:1000 [OK]
+23:17:41 [INFO] (Info) Create GameServer (ID:10404076), Max Sessions:1000 [OK]
+23:17:51 [INFO] (Accept) Session accept ID: 0, Address: 127.0.0.1:53064
+23:19:49 [INFO] (Close) Session closed ID: 0, Address: 127.0.0.1:53064
+23:20:21 [INFO] (Accept) Session accept ID: 1, Address: 127.0.0.1:53089
+23:20:22 [INFO] (Close) Session closed ID: 1, Address: 127.0.0.1:53089
+23:21:21 [INFO] (Info) Create GameServer (ID:10380037), Max Sessions:1000 [OK]
+23:21:21 [INFO] (Info) Create GameServer (ID:10431182), Max Sessions:1000 [OK]
+23:21:28 [INFO] (Accept) Session accept ID: 0, Address: 127.0.0.1:53114
+23:21:55 [INFO] (Close) Session closed ID: 0, Address: 127.0.0.1:53114
+23:23:09 [INFO] (Info) Create GameServer (ID:10455433), Max Sessions:1000 [OK]
+23:23:09 [INFO] (Info) Create GameServer (ID:10398897), Max Sessions:1000 [OK]
+23:23:19 [INFO] (Info) Create GameServer (ID:10400290), Max Sessions:1000 [OK]
+23:23:19 [INFO] (Info) Create GameServer (ID:10387607), Max Sessions:1000 [OK]
+23:23:24 [INFO] (Accept) Session accept ID: 0, Address: 127.0.0.1:53181
+23:24:21 [INFO] (Close) Session closed ID: 0, Address: 127.0.0.1:53181
+23:24:28 [INFO] (Accept) Session accept ID: 1, Address: 127.0.0.1:53193
+23:24:29 [INFO] (Close) Session closed ID: 1, Address: 127.0.0.1:53193
+23:27:32 [INFO] (Accept) Session accept ID: 2, Address: 127.0.0.1:53358
+23:31:52 [INFO] (Info) Create GameServer (ID:10400789), Max Sessions:1000 [OK]
+23:31:52 [INFO] (Info) Create GameServer (ID:10376702), Max Sessions:1000 [OK]
+23:31:58 [INFO] (Accept) Session accept ID: 0, Address: 127.0.0.1:53371
+23:32:55 [INFO] (Info) Create GameServer (ID:10387652), Max Sessions:1000 [OK]
+23:32:55 [INFO] (Info) Create GameServer (ID:10412029), Max Sessions:1000 [OK]
+23:33:03 [INFO] (Accept) Session accept ID: 0, Address: 127.0.0.1:53383
+23:33:13 [INFO] (Close) Session closed ID: 0, Address: 127.0.0.1:53383

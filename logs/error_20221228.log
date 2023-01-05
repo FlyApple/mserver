@@ -1,0 +1,5 @@
+14:40:01 [ERROR] [Load] Read redis info error
+14:40:08 [ERROR] [Database] Error: initialize redis error.
+16:06:05 [ERROR] [Database] Error: initialize redis error.
+16:58:53 [ERROR] [Database] Error: initialize redis error.
+19:48:30 [ERROR] [Database] Error: initialize redis error.
